@@ -1,7 +1,8 @@
 # Eagle Libraries
 
 ## [S202S02.lbr](S202S02.lbr)
-Long-pad version of S*02S02 from the relay library.
+[S202S02 8A Zero Cross type Phototriac SSR](https://media.digikey.com/pdf/Data%20Sheets/Sharp%20PDFs/S102,202S02.pdf)  
+Long-pad version of S\*02S02 from the relay library.
 
 ## [TL2230.lbr](TL2230.lbr)
 [TL2230 Series Sub-Miniature Pushbutton Switch](https://datasheet.octopart.com/TL2201OAYA-E-Switch-datasheet-119046.pdf)  
