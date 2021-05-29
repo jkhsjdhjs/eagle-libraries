@@ -4,4 +4,5 @@
 Long-pad version of S*02S02 from the relay library.
 
 ## [TL2230.lbr](TL2230.lbr)
-Contains a modified footprint of the MARQUARDT SWITCH 9077.0200 from the switch-misc library together with the symbol of the 2P2T switch from the switch library.
+[TL2230 Series Sub-Miniature Pushbutton Switch](https://datasheet.octopart.com/TL2201OAYA-E-Switch-datasheet-119046.pdf)  
+Custom footprint with a modified ON-MOM_2 symbol from the switch library.
