@@ -4,11 +4,11 @@
 [AZ1084C Series LOD Voltage Regulator](https://www.diodes.com/assets/Datasheets/AZ1084C.pdf)  
 D2PAK (DDPAK / TO-263) footprint from the transistor-fet library and DPAK (TO-252) footprint from the v-reg library together with a slightly adjusted 78XX symbol from the v-reg library.
 
-## [FDD6637](FDD6637.lbr)
+## [FDD6637.lbr](FDD6637.lbr)
 [FDD6637 35V P-Channel PowerTrench® MOSFET](http://www.farnell.com/datasheets/2299535.pdf)  
 DPAK (TO-252) footprint from the v-reg library together with the P-MOSFET symbol from the transistor-fet library.
 
-## [LBA710](LBA710.lbr)
+## [LBA710.lbr](LBA710.lbr)
 [LBA710 60V Dual Single-Pole OptoMOS® Relay](https://www.ixysic.com/home/pdfs.nsf/www/LBA710.pdf/$file/LBA710.pdf)  
 DIP8 (SMD DIL8) footprint from the smd-ipc library and DIL8 footprint from the microchip library together with a custom symbol.
 
