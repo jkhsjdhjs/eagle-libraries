@@ -232,10 +232,10 @@ Imported from the microchip library</description>
 <wire x1="-5.08" y1="7.62" x2="-2.54" y2="7.62" width="0.1524" layer="94"/>
 <wire x1="-2.54" y1="7.62" x2="-2.54" y2="2.54" width="0.1524" layer="94"/>
 <wire x1="-2.54" y1="2.54" x2="-5.08" y2="2.54" width="0.1524" layer="94"/>
-<pin name="NC-CONTROL+" x="-7.62" y="7.62" visible="off" length="short" direction="in"/>
-<pin name="NC-CONTROL-" x="-7.62" y="2.54" visible="off" length="short" direction="out"/>
-<pin name="NO-CONTROL+" x="-7.62" y="-2.54" visible="off" length="short" direction="in"/>
-<pin name="NO-CONTROL-" x="-7.62" y="-7.62" visible="off" length="short" direction="out"/>
+<pin name="NC-CONTROL+" x="-7.62" y="7.62" visible="off" length="short" direction="pas"/>
+<pin name="NC-CONTROL-" x="-7.62" y="2.54" visible="off" length="short" direction="pas"/>
+<pin name="NO-CONTROL+" x="-7.62" y="-2.54" visible="off" length="short" direction="pas"/>
+<pin name="NO-CONTROL-" x="-7.62" y="-7.62" visible="off" length="short" direction="pas"/>
 <pin name="NC-OUT1" x="10.16" y="7.62" visible="off" length="short" direction="pas" swaplevel="1" rot="R180"/>
 <pin name="NC-OUT2" x="10.16" y="2.54" visible="off" length="short" direction="pas" swaplevel="1" rot="R180"/>
 <pin name="NO-OUT1" x="10.16" y="-2.54" visible="off" length="short" direction="pas" swaplevel="2" rot="R180"/>
